@@ -1,2 +1,2 @@
-# otus-c-2022-09-Andrejs_Ogurcov
+# otus-c-2022-09-Andrej_Ogurcov
 Otus_homeworks

@@ -8,4 +8,4 @@ https://github.com/curl/curl
 
 To build run:
               cmake .
-              make
+              and then make

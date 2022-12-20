@@ -6,3 +6,6 @@ https://github.com/json-c/json-c
 
 https://github.com/curl/curl
 
+To build run:
+              cmake .
+              make
